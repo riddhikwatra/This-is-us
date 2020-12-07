@@ -5,6 +5,10 @@
     justify-content: center;
 }
 
+.hero-img{
+    height: 80vh;
+}
+
 .row{
     flex-direction: column;
 }
